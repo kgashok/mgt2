@@ -35,9 +35,13 @@ TEST_F(myClassTest, mClassAdding)
 	ASSERT_EQ(2, m.AddTwo(0, 2));
 }
 
+/*
+ * The following two tests will fail.
+ * Unless you make the necessary modifications which are quite
+ * straightforward
+ */
+
 #include <climits>
-// These two tests will fail
-// What changes must be made to mClass to make these tests pass? 
 
 TEST_F(myClassTest, mClassAddBoundary1)
 {
