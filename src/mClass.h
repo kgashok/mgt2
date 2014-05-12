@@ -14,6 +14,9 @@ public:
 
 	int GetOne () { return 1;}
 
+	// this method needs to be fixed for all the tests to pass
+	// What changes are required?
+
 	int AddTwo (int a, int b) { return a+b;}
 
 };
