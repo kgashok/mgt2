@@ -6,10 +6,10 @@ You will need to have Google C++ Testing framework already installed.
 Please review this [video](https://www.youtube.com/watch?v=ukF3kUH1kxM).
 
 In my case, I used the Cygwin [ToolChain](img/ToolChain.PNG) to get it to compile, build and run eventually.
+> ![Image](img/ToolChain.PNG?raw=true)
 
-Here's a screen shot of the Test Driven Development (TDD) setup. Notice the two failing tests in the Unit Testing support tab C/C++ Unit next to Console).
-
-![Image](img/Eclipse%20Google%20TDD%20capture.PNG?raw=true)
+Here's a screen shot of the Test Driven Development (TDD) setup. Notice the two failing tests in the Unit Testing support tab C/C++ Unit next to Console). 
+> ![Image](img/Eclipse%20Google%20TDD%20capture.PNG?raw=true)
 
 There is also native support in Eclipse for other testing frameworks (including Boost Test runner). 
 To set this up, read [this](http://feelings-erased.blogspot.in/2012/07/eclipse-juno-has-landed-with-unit.html) and [this](http://www.eclipse.org/forums/index.php/t/512946/).
