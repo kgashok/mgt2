@@ -29,13 +29,15 @@ TEST_F(myClassTest, mClassReturnOne)
 	ASSERT_EQ(1, m.GetOne());
 }
 
-#include <climits>
-
 TEST_F(myClassTest, mClassAdding)
 {
 	ASSERT_EQ(4, m.AddTwo(2, 2));
 	ASSERT_EQ(2, m.AddTwo(0, 2));
 }
+
+#include <climits>
+// These two tests will fail
+// What changes must be made to mClass to make these tests pass? 
 
 TEST_F(myClassTest, mClassAddBoundary1)
 {
