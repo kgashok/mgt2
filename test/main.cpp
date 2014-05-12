@@ -11,6 +11,8 @@
 #include <iostream>
 using namespace std;
 
+// TDD development in C++ Eclipse
+
 int main(int argc, char* argv[])
 {
 	cout << "Hello World!" << endl;
