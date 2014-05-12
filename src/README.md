@@ -25,4 +25,4 @@ Have fun!
 
 Inspired by the 'Deaf Grandma' exercise in Chris Pine's Learn to Program tutorial. [view source](http://pine.fm/LearnToProgram/?Chapter=06)
 
-[lazy]: http://www.merriam-webster.com/dictionary/lackadaisical 'lazy'
+[lazy]: http://www.merriam-webster.com/dictionary/lackadaisical ' feeling or showing a lack of interest or enthusiasm'
