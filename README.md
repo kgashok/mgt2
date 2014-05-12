@@ -5,7 +5,7 @@ A setup which should work on the Kepler (8.3) version of Eclipse.
 You will need to have Google C++ Testing framework already installed. 
 Please review this [video](https://www.youtube.com/watch?v=ukF3kUH1kxM).
 In my case, I used the MingwC++ compiler ecosystem to get it to build and compile eventually.
-Here's a ![screen snippet](https://github.com/kgashok/mgt2/blob/master/Eclipse%20Google%20TDD%20capture.PNG) of how the Test Driven Development (TDD) setup looks like.
+> Here's a ![screen snippet](https://github.com/kgashok/mgt2/blob/master/Eclipse%20Google%20TDD%20capture.PNG) of how the Test Driven Development (TDD) setup looks like.
 
 There is also native support in Eclipse for other testing frameworks (including Boost Test runner). 
 To set this up, read [this](http://feelings-erased.blogspot.in/2012/07/eclipse-juno-has-landed-with-unit.html) and [this](http://www.eclipse.org/forums/index.php/t/512946/).
