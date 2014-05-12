@@ -1,9 +1,9 @@
 Eclipse + Google C++ testing
 =============
 
-A setup which should work on the Kepler (8.3) version of Eclipse. 
+A setup which should work in the Kepler (8.3) version of Eclipse. 
 You will need to have Google C++ Testing framework already installed. 
-Please review this [video](https://www.youtube.com/watch?v=ukF3kUH1kxM).
+Please review this [video][youTube] for more details.
 
 In my case, I used the Cygwin [ToolChain](img/ToolChain.PNG) to get it to compile, build and run eventually.
 > ![Image](img/ToolChain.PNG?raw=true)
@@ -21,3 +21,4 @@ To set this up, read [this](http://feelings-erased.blogspot.in/2012/07/eclipse-j
 ![Image](img/TDD.png?raw=true)
 
 
+[youTube]: https://www.youtube.com/watch?v=ukF3kUH1kxM  "Eclipse and Google C++ Test Framework"
