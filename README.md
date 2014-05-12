@@ -4,7 +4,7 @@ Eclipse + Google C++ testing
 A setup which should work on the Kepler (8.3) version of Eclipse. 
 You will need to have Google C++ Testing framework already installed. 
 Please review this [video](https://www.youtube.com/watch?v=ukF3kUH1kxM).
-In my case, I used the MingwC++ compiler ecosystem to get it to build and compile eventually.
+In my case, I used the Cygwin [ToolChain](ToolChain.png) to get it to compile, build and run eventually.
 > Here's a ![screen snippet](https://github.com/kgashok/mgt2/blob/master/Eclipse%20Google%20TDD%20capture.PNG) of the Test Driven Development (TDD) setup. Notice the two failing tests in the Unit Testing support tab C/C++ Unit next to Console).
 
 There is also native support in Eclipse for other testing frameworks (including Boost Test runner). 
