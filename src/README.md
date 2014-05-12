@@ -1,14 +1,14 @@
 # Bob
 
-Bob is a lackadaisical teenager. In conversation, his responses are very limited.
+Bob is a [lackadaisical][lazy] teenager. In conversation, his responses are very limited.
 
-Bob answers 'Sure.' if you ask him a question.
+Bob answers **'Sure.'** if you ask him a question.
 
-He answers 'Woah, just calm down!' if you yell at him.
+He answers **'Woah, just calm down!'** if you yell at him.
 
-He says 'Fine. Be that way!' if you address him without actually saying anything.
+He says **'Fine. Be that way!'** if you address him without actually saying anything.
 
-He answers 'Whatever.' to anything else.
+He answers **'Whatever.'** to anything else.
 
 ## Instructions
 
@@ -21,7 +21,8 @@ Please make your solution as general as possible. Good code doesn't just pass th
 Have fun!
 
 
-
 ## Source
 
 Inspired by the 'Deaf Grandma' exercise in Chris Pine's Learn to Program tutorial. [view source](http://pine.fm/LearnToProgram/?Chapter=06)
+
+[lazy]: http://www.merriam-webster.com/dictionary/lackadaisical 'lazy'
