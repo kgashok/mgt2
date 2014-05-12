@@ -3,7 +3,7 @@ Eclipse + Google C++ testing
 
 A setup which should work on the Kepler (8.3) version of Eclipse. 
 You will need to have Google C++ Testing framework already installed. 
-Please listen to this [video](https://www.youtube.com/watch?v=ukF3kUH1kxM).
+Please review this [video](https://www.youtube.com/watch?v=ukF3kUH1kxM).
 In my case, I used the MingwC++ compiler ecosystem to get it to build and compile eventually.
 
 There is also native support in Eclipse for other testing frameworks (including Boost Test runner). 
