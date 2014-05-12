@@ -2,7 +2,7 @@
  * bob.h
  *
  *  Created on: May 12, 2014
- *      Author: Advik
+ *      Author: lifebalance
  */
 
 #ifndef BOB_H_

@@ -2,7 +2,7 @@
  * bob_test.cpp
  *
  *  Created on: May 12, 2014
- *      Author: Advik
+ *      Author: lifebalance
  */
 
 #include "gtest/gtest.h"
@@ -31,6 +31,7 @@ TEST_F(BobTest, HelloWorldTest)
 	ASSERT_TRUE (b._is_shouting("HELLO WORLD!"));
 	ASSERT_FALSE (b._is_shouting("Hello World."));
 	ASSERT_EQ (Bob::response_4, b.Hey("Hello World!"));
+
 }
 
 TEST_F(BobTest, ShoutingTestPass)
@@ -80,3 +81,16 @@ TEST_F(BobTest, TestPrattling)
 	ASSERT_EQ (Bob::response_3, b.Hey("Wait! Hang on. Are you going to be OK?"));
 
 }
+
+TEST_F(BobTest, UnicodeMessaging)
+{
+	// Need to define this test so that Bob can respond to Unicode messages
+	//
+	// wchar_t* wsz = L"Hello World!";  // 12 bytes, 6 wide characters
+	// ASSERT_EQ (Bob::response_4, b.Hey((const char*)wsz));
+
+	ASSERT_TRUE(true);
+
+}
+
+

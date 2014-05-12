@@ -2,7 +2,7 @@
  * main.cpp
  *
  *  Created on: May 11, 2014
- *      Author: Advik
+ *      Author: lifebalance
  */
 
 
