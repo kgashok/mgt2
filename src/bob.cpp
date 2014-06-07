@@ -39,7 +39,7 @@ bool Bob::_is_shouting(const char* stimulus)
 	
 	std::transform(s.begin(), s.end(), 
 		out.begin(), 
-		(int(*)(int))std::toupper);  // use toUpper()
+		(int(*)(int))std::toupper);  // use toupper()
 
 	return (s.compare(out) == 0);
 }
