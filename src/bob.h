@@ -21,16 +21,17 @@ string trimBegin(string);  // defined in bob.cpp
 
 class Bob {
 public:
-	static const char* response_1; // = "Fine. Be that way!";
-	static const char* response_2; // = "Woah, calm down!";
-	static const char* response_3; // = "Sure.";
-	static const char* response_4; //  = "Whatever.";
+    static const char* response_1; // = "Fine. Be that way!";
+    static const char* response_2; // = "Woah, calm down!";
+    static const char* response_3; // = "Sure.";
+    static const char* response_4; //  = "Whatever.";
 
-	const char* Hey(const char* stimulus);   // the method that you use to communicate to Bob
+    const char* Hey(const char* stimulus);   // the method that you use to communicate to Bob
 
-	bool _is_silence(const char* stimulus);
-	bool _is_shouting(const char* stimulus);
-	bool _is_question(const char* stimulus);
+private:
+    bool _is_silence(const char* stimulus);
+    bool _is_shouting(const char* stimulus);
+    bool _is_question(const char* stimulus);
 
 };
 
