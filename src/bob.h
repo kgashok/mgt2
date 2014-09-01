@@ -28,7 +28,7 @@ public:
 
     const char* Hey(const char* stimulus);   // the method that you use to communicate to Bob
 
-private:
+// private:
     bool _is_silence(const char* stimulus);
     bool _is_shouting(const char* stimulus);
     bool _is_question(const char* stimulus);
