@@ -1,6 +1,11 @@
 Eclipse + Google C++ testing
 =============
 
+### Quick Setup
+C++ unit test start guide, how to set up Google Test (gtest) in Eclipse? - CodeProject http://buff.ly/1qmkiBQ 
+A 8 minute video - Setup Eclipse with Google Test - YouTube http://buff.ly/1oAYFII 
+
+### Detailed Setup
 A setup which should work in the Kepler (8.3) version of Eclipse. 
 You will need to have Google C++ Testing framework already installed. 
 Please review this [video][Eclipse youTube] for more details.
